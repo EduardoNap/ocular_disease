@@ -9,3 +9,5 @@ Ocular_disease recognition using a MLP-CNN model with 'VGG16' as base.
 5. Model and hyperparamters: Build the MLP-CNN model with attention and search for optimal hyeperparameters.
 6. Model: Create the final model with the hyperparameters and evaluate the model.
    
+# Dataset
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
